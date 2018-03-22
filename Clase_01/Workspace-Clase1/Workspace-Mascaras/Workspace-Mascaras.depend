@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521732102 source:d:\workspace-clase1\workspace-mascaras\main.c
+	<stdio.h>
+	<stdlib.h>
+
