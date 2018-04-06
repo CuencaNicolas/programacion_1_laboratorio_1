@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1523018388 source:/home/alumno/Escritorio/WorkSpace-Clase4/WorkSpace-Clase4/Funciones.c
+	"Funciones.h"
+	<stdio.h>
+
+1523018432 source:/home/alumno/Escritorio/WorkSpace-Clase4/WorkSpace-Clase4/main.c
+	<stdlib.h>
+	"Funciones.h"
+
+1523018388 /home/alumno/Escritorio/WorkSpace-Clase4/WorkSpace-Clase4/Funciones.h
+

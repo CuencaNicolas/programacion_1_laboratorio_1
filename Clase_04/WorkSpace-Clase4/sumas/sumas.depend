@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1523020708 source:/home/alumno/Escritorio/WorkSpace-Clase4/sumas/Funciones.c
+	"Funciones.h"
+	<stdio.h>
+
+1523020708 /home/alumno/Escritorio/WorkSpace-Clase4/sumas/Funciones.h
+
