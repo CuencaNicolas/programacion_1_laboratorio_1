@@ -1,11 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#define cantidad
 void cambiarEntero (int numero);
 
-void cambiarVector (int listadoDeNumeros[]);/*Defino un tipo de dato*/
+void cambiarVector (int listadoDeNumeros[cantidad]);/*Defino un tipo de dato*/
 
-void cargarVectorConMenosUno(int listado[]);
+void cargarVectorConMenosUno(int listado[cantidad]);
+
 
 int main()
 {
@@ -32,10 +33,12 @@ void cargarVectorConMenosUno(int listado[])
 void cambiarEntero(int numero)
 
  {
-    numero = 666;
+
+     numero = 666;
  }
 
-void cambiarVector (int listadoDeNumeros[])
+void cambiarVector (int listadoDeNumeros[cantidad])
 {
+    int cambiarVector
     listadoDeNumeros[0] = 666
 }
