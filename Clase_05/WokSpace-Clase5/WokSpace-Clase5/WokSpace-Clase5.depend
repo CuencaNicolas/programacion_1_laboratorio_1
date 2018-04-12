@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1523534234 source:d:\wokspace-clase5\wokspace-clase5\funciones.c
+
+1523537864 source:d:\wokspace-clase5\wokspace-clase5\main.c
+	<stdio.h>
+	<stdlib.h>
+
